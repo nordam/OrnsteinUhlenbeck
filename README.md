@@ -21,3 +21,5 @@ After running both the fortran and the python code, run the plotting script in t
 `> python plot_both.py`
 
 Running this script will read the two output files, and produce a plot of variance as a function of time.
+
+![test](output/variances.png)
